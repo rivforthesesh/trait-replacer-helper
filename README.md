@@ -1,11 +1,11 @@
 # trait-replacer-helper
 source code for my trait replacer mod at https://rivforthesesh.itch.io/trait-replacer
 
-#Changing an ID
+# Changing an ID
 
 If you have a trait that is no longer being updated and all you need for that is a new 32bit trait ID, look at this tutorial from zero: https://www.patreon.com/posts/tutorial-custom-31937410
 
-#Using my trait replacer
+# Using my trait replacer
 
 To get started, please BACK UP YOUR SAVE, and make sure you do not remove the old trait files before starting, since the information on which sim has which trait will be lost, and my mod won't be any help.
 
@@ -23,7 +23,7 @@ This mod will create one new file in the same folder as the .ts4script called **
 - play the game!
 - if you find any more updated traits later, just move/delete the .json file if needed and redo this section from the start
 
-#What if the new trait has a different name?
+# What if the new trait has a different name?
 
 This mod decides if two traits are the same by looking at their name within the game, but there are two workarounds for this: the first is a separate command with which you just enter two trait IDs, for the old trait to remove and the new trait to add. For every sim that had the trait with the first ID (and this info is saved in the .json file), it will add the trait with the second ID to that sim.
 
