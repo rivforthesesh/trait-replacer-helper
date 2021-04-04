@@ -1,6 +1,8 @@
 # trait-replacer-helper
 source code for my trait replacer mod at https://rivforthesesh.itch.io/trait-replacer
 
+just the usual, please credit if you use any of my code; guide to using the mod below
+
 # Changing an ID
 
 If you have a trait that is no longer being updated and all you need for that is a new 32bit trait ID, look at this tutorial from zero: https://www.patreon.com/posts/tutorial-custom-31937410
